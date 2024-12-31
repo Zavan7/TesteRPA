@@ -16,6 +16,7 @@ Usando o Selenium, para efetuar a pesquisa no Google e em seguida acessar a pág
 ### MongoDB / PyMongo
 ### WebDriver Maneger
 ### Wasabi (Apenas visual)
+### Webdriver-manager
 
 ## Estapas
 
